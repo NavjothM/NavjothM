@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Navjoth, A student of Bioinformatics
-- 👀 I’m interested in all things tech, from Linux to Windows, From Python to JS
+- 👋 Hi, I’m Navjoth, bioinformatician and programmer proficient in python, R and shell scripting.
+- 👀 I’m interested in all things tech, Linux, AI and Gaming
 - 🌱 I’m currently learning Snakemake workflows, Git and Github and Azure Concepts
 
 <!---
